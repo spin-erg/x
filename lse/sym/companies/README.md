@@ -1,0 +1,2 @@
+- `companies.tsv` manually extracted/exported to TSV from XLSX file via LSE
+  - stored: src/companies-defined-by-mifir-identifiers-list-on-lse.xlsx
