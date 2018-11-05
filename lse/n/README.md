@@ -1,0 +1,4 @@
+- `content` stores article content
+- `r` is code to read articles
+- `t` stores topic names along with their topic URLs
+  - this has been adapted from another scraper, may change

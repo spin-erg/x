@@ -1,0 +1,3 @@
+- could potentially run a backup script to `killall firefox` and copy the cookies db here then relaunch it
+- could make a graph database
+- could tie in Twitter using Kenneith Reitz's reverse engineered "unofficial API" library to see if I've tweeted any FT pieces?
